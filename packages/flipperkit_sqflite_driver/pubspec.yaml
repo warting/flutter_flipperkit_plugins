@@ -11,7 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_flipperkit: ^0.0.7
+  flutter_flipperkit:
+    git: https://github.com/warting/flutter_flipperkit.git
   sqflite: ^1.1.0
 
 dev_dependencies:
